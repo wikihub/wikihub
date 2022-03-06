@@ -1,3 +1,5 @@
+[![deploy-docusaurus](https://github.com/eLearningHub/Static-Website-Docusaurus/actions/workflows/docusaurus.yml/badge.svg)](https://github.com/eLearningHub/Static-Website-Docusaurus/actions/workflows/docusaurus.yml)
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
