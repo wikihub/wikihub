@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'elearninghub', // Usually your GitHub org/user name.
+  organizationName: 'eLearningHub', // Usually your GitHub org/user name.
   projectName: 'Static-Website-Docusaurus', // Usually your repo name.
 
   presets: [
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/elearninghub/Static-Website-Docusaurus',
+          editUrl: 'https://github.com/eLearningHub/Static-Website-Docusaurus',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/elearninghub/Static-Website-Docusaurus',
+            'https://github.com/eLearningHub/Static-Website-Docusaurus',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -57,7 +57,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/elearninghub/Static-Website-Docusaurus',
+            href: 'https://github.com/eLearningHub/Static-Website-Docusaurus',
             label: 'Github',
             position: 'right',
           },
