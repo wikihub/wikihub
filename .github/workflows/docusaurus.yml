@@ -1,5 +1,5 @@
 name: deploy-docusaurus
-
+# Reference: https://evantay.com/blog/docusaurus-gh-action/
 on:
   push:
     branches: [main]
