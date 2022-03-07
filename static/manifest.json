@@ -1,8 +1,8 @@
 {
-    "name": "Docusaurus",
-    "short_name": "Docusaurus",
+    "name": "WikiHub",
+    "short_name": "WikiHub",
     "description": "A collection of goodies!",
-    "start_url": "/Static-Website-Docusaurus/",
+    "start_url": "/wikihub/",
     "display": "standalone",
     "background_color": "#202124",
     "theme_color": "#202124",
