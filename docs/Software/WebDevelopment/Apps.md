@@ -39,3 +39,4 @@ description: Resources on mobile application development
 * [Workbox](https://developers.google.com/web/tools/workbox/guides/get-started)
 * [docusaurus plugin pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa)
 * [PWA Builder](https://www.pwabuilder.com/imageGenerator)
+* [PWA with vanilla js](https://github.com/ibrahima92/pwa-with-vanilla-js)
