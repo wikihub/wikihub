@@ -53,7 +53,7 @@ const config = {
             type: 'doc',
             docId: 'engineering/index',
             position: 'left',
-            label: 'ref',
+            label: 'References',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
