@@ -51,7 +51,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'engineering/index',
+            docId: 'Academia/index',
             position: 'left',
             label: 'References',
           },
