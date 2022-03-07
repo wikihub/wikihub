@@ -43,9 +43,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'eLearningHub',
+        title: 'WikiHub',
         logo: {
-          alt: 'eLearningHub',
+          alt: 'WikiHub',
           src: 'img/logo.svg',
         },
         items: [
