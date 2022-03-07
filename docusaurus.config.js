@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'docu',
   tagline: 'Making great products',
-  url: 'https://elearninghub.github.io',
-  baseUrl: '/Static-Website-Docusaurus/',
+  url: 'https://wikihub.github.io',
+  baseUrl: '/wikihub/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'eLearningHub', // Usually your GitHub org/user name.
-  projectName: 'Static-Website-Docusaurus', // Usually your repo name.
+  organizationName: 'wikihub', // Usually your GitHub org/user name.
+  projectName: 'wikihub', // Usually your repo name.
 
   presets: [
     [
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/eLearningHub/Static-Website-Docusaurus',
+          editUrl: 'https://github.com/wikihub/wikihub',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/eLearningHub/Static-Website-Docusaurus',
+            'https://github.com/wikihub/wikihub',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
