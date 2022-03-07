@@ -53,7 +53,7 @@ const config = {
             type: 'doc',
             docId: 'engineering/index',
             position: 'left',
-            label: 'docu',
+            label: 'ref',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -67,10 +67,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'References',
             items: [
               {
-                label: 'docu',
+                label: 'ref',
                 to: '/docs/engineering/index',
               },
             ],
