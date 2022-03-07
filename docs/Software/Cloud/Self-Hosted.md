@@ -85,3 +85,7 @@ description: News and information about self-hosted applications
 
 ### Drupal
 * [Drupal on AWS](https://github.com/mrn55/k8s)
+
+## Static Webpages
+
+* [docker-cloud-boilerplate](https://github.com/cle1000/docker-cloud-boilerplate)
