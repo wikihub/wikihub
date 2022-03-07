@@ -1,9 +1,9 @@
 ---
-title: "Self-hosted"
+title: "Self-Hosted"
 description: News and information about self-hosted applications
 ---
 
-# Self Hosted
+# Self-Hosted
 
 ## Docker
 * [Docker stack this](https://github.com/pascalandy/docker-stack-this)
