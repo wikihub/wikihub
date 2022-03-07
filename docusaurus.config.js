@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/wikihub/wikihub',
+          editUrl: 'https://github.com/wikihub/wikihub/blob/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/wikihub/wikihub',
+            'https://github.com/wikihub/wikihub/blob/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -57,7 +57,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/eLearningHub/Static-Website-Docusaurus',
+            href: 'https://github.com/wikihub/wikihub',
             label: 'Github',
             position: 'right',
           },
