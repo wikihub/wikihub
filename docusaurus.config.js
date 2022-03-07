@@ -71,7 +71,7 @@ const config = {
             items: [
               {
                 label: 'ref',
-                to: '/docs/engineering/index',
+                to: '/docs/Academia/index',
               },
             ],
           },
