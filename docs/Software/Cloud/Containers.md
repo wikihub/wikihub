@@ -84,7 +84,7 @@ description: News and information about containers
 
 ## Prune  
 * Remove all the images without a tag: `docker rmi $(docker images -f dangling=true -q)`
-* Remove <none> images: `docker rmi $(docker images |grep "<none>"|awk '$1=="<none>" {print $3}')`
+* Remove `<none>` images: `docker rmi $(docker images |grep "<none>"|awk '$1=="<none>" {print $3}')`
 * Prune the system: `docker system prune`
 * Check the /var/lib/docker folder: `sudo du -h --max-depth=1 /var/lib/docker`
 * Check storage with `sudo baobab`
