@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/wikihub/wikihub/blob/main/',
+          editUrl: 'https://github.com/wikihub/wikihub/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/wikihub/wikihub/blob/main/',
+            'https://github.com/wikihub/wikihub/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
