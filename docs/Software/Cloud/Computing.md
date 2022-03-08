@@ -26,9 +26,11 @@ description: News and information about cloud computing services
 
 ## Cloud GPU
 
-| Name           | Cores |  GPU  | RAM  | Storage | Data Transfer |  CAD/h    |  CAD/m     |
-|----------------|:-----:|------:|-----:|--------:|--------------:|----------:|-----------:|
-| AWS p3.8xlarge |  32   |   4   | 244  |  EBS    |               |  $13.464  | $9,694.08  |
+| Name            | Cores |  GPU  | RAM  | Storage | Data Transfer |  CAD/h    |  CAD/m     |
+|-----------------|:-----:|------:|-----:|--------:|--------------:|----------:|-----------:|
+| AWS p3.8xlarge  |  32   |   4   | 244  |  EBS    |               |  $13.464  | $9,694.08  |
+| AWS p3.2xlarge  |   8   |   1   |  61  |  EBS    |               |   $3.366  | $2,423.52  |
+| Paperspace A100 |  12   |   1   |  90  |  EBS    |               |   $3.09   | $2,224.8   |
 
 ## Cloud Native
 
