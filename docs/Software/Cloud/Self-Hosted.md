@@ -89,3 +89,6 @@ description: News and information about self-hosted applications
 ## Static Webpages
 
 * [docker-cloud-boilerplate](https://github.com/cle1000/docker-cloud-boilerplate)
+
+## Traefik
+* [Traefik v2 HTTPS (SSL) on localhost](https://github.com/Heziode/traefik-v2-https-ssl-localhost)
