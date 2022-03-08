@@ -6,58 +6,73 @@ weight: 70
 description: News and information about cloud computing services
 ---
 
-# Cloud Native 
+# Cloud Computing
+
+| Name          | Cores | RAM  | Storage | Data Transfer |  CAD/h    |  CAD/m     |
+|---------------|:-----:|-----:|--------:|--------------:|----------:|-----------:|
+| Kubeflow      |   4   | 12GB |  50GB   |               |           |            |
+| Hetzner CPX21 |   3   | 4GB  |  80GB   |     20TB      | $0.02/h   | $14.4/mth  |
+| Hetzner CPX31 |   4   | 8GB  |  160GB  |     20TB      | $0.03/h   | $21.6/mth  |
+| OVH VPS Essen |   2   | 4GB  |  80GB   |   Unlimited   | $0.02/h   | $14.73/mth |
+| OVH VPS Comft |   4   | 8GB  |  160GB  |   Unlimited   | $0.03/h   | $29.47/mth |
+| AWS m5.large  |   2   | 8GB  |  40GB   |      200GB    | $0.13/h   | $93.68/mth |
+|   t2.2xlarge  |   8   | 32GB |         |               | $0.48/h   | $345.6/mth |
+|  g4dn.xlarge  |   4   | 16GB |  125GB  |      25G      | $0.67/h   | $482.4/mth |
+| GCP n2d std 2 |   2   | 8GB  |  40GB   |       0       | $0.10/h   | $71.93/mth |
+| Contabo VPS M |   6   | 16GB |  400GB  |   Unlimited   | $0.022/h  | $15.38/mth |
+
+## Cloud Native
 
 * [CNCF Landscape](https://github.com/cncf/landscape)
 
-# Cloud Storage
+## Cloud Storage
 
 * [Min.io](https://min.io/)
 
-# Software Stacks
+## Software Stacks
 
 * [LXD OpenStack Cloud](https://jaas.ai/openstack-lxd)
 * [OpenStax](https://github.com/openstax)
 
-# GPU Computing
+## GPU Computing
 
 * [Lambda Labs](https://lambdalabs.com/)
 * [Vast.ai](https://vast.ai/)
 
-# Development Operations
+## Development Operations
 
 * [opctl](https://opctl.io/docs/)
 
-# Cloud services
+## Cloud services
 
 * [VPS Benchmarks](https://www.vpsbenchmarks.com/)
 
-# Amazon Web Services
+## Amazon Web Services
 
-## Courses
+### Courses
 
 * [AWS Solutions Architect Certification Training Course](https://www.simplilearn.com/cloud-computing/aws-solution-architect-associate-training?referrer=search&tag=aws)
 
-## CodePipeline
+### CodePipeline
 * [Working with Git Submodules in CodePipeline](https://medium.com/@cristiano.ventura/working-with-git-submodules-in-codepipeline-83e843e5d0a)
 
-# Lambda functions
+## Lambda functions
 - [Architect](https://arc.codes/)
 
-# EC2
+## EC2
 
 * Change shell for user: `$ sudo usermod -s /bin/bash username`
 * [EC2 script with for loops](https://github.com/hlupaco/aws-ec2-cmd/blob/master/ec2-cmd.sh)
 
-## Remote access to EC2
+### Remote access to EC2
 
 * [AWS virtual bastion](https://github.com/akittana/aws-virtual-bastion)
 
-## NVIDIA on EC2
+### NVIDIA on EC2
 
 * [Install NVIDIA driver](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-nvidia-driver.html)
 
-## OpenGL on EC2
+### OpenGL on EC2
 
 * [GPU Benchmarks](https://wiki.archlinux.org/index.php/Benchmarking#Graphics)
 * [How to run Unity on Amazon Cloud or without Monitor](https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639)
@@ -75,7 +90,7 @@ description: News and information about cloud computing services
 * [How to run Unity on Amazon Cloud or without Monitor](https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639)
 * [Remote accelerated graphics with VirtualGL and TurboVNC](https://summerofhpc.prace-ri.eu/remote-accelerated-graphics-with-virtualgl-and-turbovnc/)
 
-# Hetzner
+## Hetzner
 - [Awesome Hcloud](https://github.com/hetznercloud/awesome-hcloud)
 - [Setting up OIDC Authentication & Audit Logging With Kubermatic KubeOne](https://www.kubermatic.com/blog/kubeone-oidc-authentication-audit-logging/)
 - [Our own GitLab Server with docker and traefik](https://community.hetzner.com/tutorials/gitlab-server-with-docker)
@@ -90,14 +105,14 @@ description: News and information about cloud computing services
   * boot into "Recovery Mode"
   * open "root shell" :P
 
-## Terraform
+### Terraform
 
 * [hcloud terraform](https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs)
 * [hcloud-csi-driver](https://registry.terraform.io/modules/colinwilson/hcloud-csi-driver/kubernetes/latest)
 * [Silkky Cloud terraform hcloud](https://github.com/silkkycloud/terraform-cluster)
 * [terraform-kubernetes-hcloud-csi-driver](https://github.com/colinwilson/terraform-kubernetes-hcloud-csi-driver)
 
-## Kubernetes
+### Kubernetes
 - [hetzner-kube](https://github.com/xetys/hetzner-kube)
 - [Hcloud cloud controller manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager)
 - [Install Kubernetes cluster](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
@@ -115,13 +130,13 @@ description: News and information about cloud computing services
 - [Vanilla Hetzner Kubeone build does not support load balancers #1110](https://github.com/kubermatic/kubeone/issues/1110)
 - [Getting Started With Kubermatic Kubernetes Platform Part 1](https://www.kubermatic.com/blog/getting-started-with-kubermatic-kubernetes-platform-part-1/)
 
-### Load Balancers
+#### Load Balancers
 - [Weird problem with load balancers that I cannot figure out #222 (use-private-ip: "true")](https://github.com/hetznercloud/hcloud-cloud-controller-manager/issues/222)
 - [hcloud load_balancer.go](https://github.com/hetznercloud/hcloud-cloud-controller-manager/blob/master/internal/annotation/load_balancer.go)
 
-## SSL Certificates
+### SSL Certificates
 * [SSL certificates on Hetzner](https://docs.hetzner.com/konsoleh/ssl/certificates)
 
-# Virtualization
+## Virtualization
 
 * [IsarVDI](https://isardvdi.com/)
