@@ -94,7 +94,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} eLearningHub Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} WikiHub built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
