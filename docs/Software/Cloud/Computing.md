@@ -30,6 +30,7 @@ description: News and information about cloud computing services
 |-----------------|:-----:|-----------------:|-----:|--------:|--------------:|----------:|-----------:|
 | AWS p3.8xlarge  |  32   |   4x Tesla V100  | 244  |  EBS    |               |  $13.464  | $9,694.08  |
 | AWS p3.2xlarge  |   8   |   1x Tesla V100  |  61  |  EBS    |               |   $3.366  | $2,423.52  |
+| AWS g4dn.xlarge |       |                  |      |         |               |           |            |
 | Paperspace A100 |  12   |   1x A100        |  90  |  EBS    |               |   $3.09   | $2,224.8   |
 
 ## Cloud Native
