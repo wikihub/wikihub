@@ -8,6 +8,8 @@ description: News and information about cloud computing services
 
 # Cloud Computing
 
+## Cloud CPU
+
 | Name          | Cores | RAM  | Storage | Data Transfer |  CAD/h    |  CAD/m     |
 |---------------|:-----:|-----:|--------:|--------------:|----------:|-----------:|
 | Kubeflow      |   4   | 12GB |  50GB   |               |           |            |
@@ -20,6 +22,13 @@ description: News and information about cloud computing services
 |  g4dn.xlarge  |   4   | 16GB |  125GB  |      25G      | $0.67/h   | $482.4/mth |
 | GCP n2d std 2 |   2   | 8GB  |  40GB   |       0       | $0.10/h   | $71.93/mth |
 | Contabo VPS M |   6   | 16GB |  400GB  |   Unlimited   | $0.022/h  | $15.38/mth |
+| Paperspace C4 |   2   | 4GB  |   50GB  |               | $0.04/h   | $25/mth    |
+
+## Cloud GPU
+
+| Name           | Cores |  GPU  | RAM  | Storage | Data Transfer |  CAD/h    |  CAD/m     |
+|----------------|:-----:|------:|-----:|--------:|--------------:|----------:|-----------:|
+| AWS p3.8xlarge |  32   |   4   | 244  |  EBS    |               |  $13.464  | $9,694.08  |
 
 ## Cloud Native
 
