@@ -38,6 +38,7 @@ description: Resources for running a small business
 * [TaxTron](https://taxtronweb.ca/T2/taxtron-T2-for-web)
 * [WebTax4B.ca](https://secure.macront.com/WebTax4B.ca/)
 * [GIFI - Importing a Microsoft Excel™ File](https://support.wolterskluwer.ca/en/support/newsdetail.asp?d=1514)
+* [How to Prepare a T2 Corporate Income Tax Return - Detailed](https://youtu.be/M1fAymgv6xg)
 
 # Personal Tax
 
