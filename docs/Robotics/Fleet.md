@@ -7,6 +7,7 @@ description: Resources on fleet management and web interface for robots
 
 # Fleet Managetment
 
+* [Transitive Robotics](https://transitiverobotics.com/)
 * [Freedom Robotics](https://www.freedomrobotics.ai/)
 * [Formant](https://formant.io/)
 * [ROSHub](https://roshub.io/)
@@ -20,5 +21,5 @@ description: Resources on fleet management and web interface for robots
 * [Keeptruckin](https://keeptruckin.com/)
 * [Samsara](https://www.samsara.com/)
 
-# Kubernetes for Robotics
+## Kubernetes for Robotics
 * [Cloud Robotics Core: Kubernetes, Federation, App Management](https://googlecloudrobotics.github.io/core/how-to/running-ros-node.html)
