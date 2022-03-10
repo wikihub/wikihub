@@ -4,7 +4,7 @@ linkTitle: "Small Business"
 weight: 200
 description: Resources for running a small business
 ---
-# Accounting
+## Accounting
 
 * [Sage 50](https://www.sage.com/en-ca/products/sage-50cloud/)
 * [QuickBooks Online](https://quickbooks.intuit.com/ca/pricing/)
@@ -23,6 +23,9 @@ description: Resources for running a small business
 * [Best Accounting Software for Small Business](https://www.investopedia.com/best-accounting-software-for-small-business-5069679)
 * [Free and low-cost accounting and invoicing software for your business](https://www.bdc.ca/en/articles-tools/technology/free-low-cost-applications/accounting-software-free-low-cost-options)
 * [Beancount](https://github.com/beancount/beancount)
+
+### Accounting Tips
+* [How can I record a cash back to my credit card account?](https://quickbooks.intuit.com/learn-support/en-ca/supplier-credits/how-can-i-record-a-cash-back-to-my-credit-card-account/00/262100?cid=ppc_G__CA_.QBO_CA_DSA_Support_tROAS_G_S_FY22.__txt&gclid=CjwKCAiAvaGRBhBlEiwAiY-yMJIj-HGPREwl5KVKO4AiBUwjtggNUdQFdWRcV5PvRUF52JemLCmf6RoCZ_MQAvD_BwE&gclsrc=aw.ds)
 
 # Corporate Tax
 * [Tax 2000: Brian Allward](https://www.tax2000.ca/corptax.html)
