@@ -25,6 +25,7 @@ description: Resources for running a small business
 * [Beancount](https://github.com/beancount/beancount)
 
 # Corporate Tax
+* [Tax 2000: Brian Allward](https://www.tax2000.ca/corptax.html)
 * [T2Inc](https://t2inc.ca/en/services/business-tax)
 * [Fair Tax Canada](https://fairtaxcanada.com/rates/)
 * [The Canada Revenue Agency (CRA) certifies commercial tax preparation software packages for use with the Corporation Internet Filing service.](https://www.canada.ca/en/revenue-agency/services/e-services/e-services-businesses/corporation-internet-filing/software.html)
