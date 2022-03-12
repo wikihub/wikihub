@@ -9,3 +9,4 @@ description: News and information about domain name servers
 ---
 
 * [naked domain redirect](http://wwwizer.com/naked-domain-redirect)
+* To see the DNS servers, run: `resolvectl`
