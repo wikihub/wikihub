@@ -22,6 +22,10 @@ description: News and information about Markdown
 * [Xaringan](https://slides.yihui.org/xaringan/#1)
 * [Garrick Aden-Buie - Making Extra Great Slides with xaringan, xaringanthemer and xaringanExtra](https://youtu.be/FHy6NseH8yk)
 
+# ReLaXed
+
+* [ReLaXed examples](https://github.com/RelaxedJS/ReLaXed-examples)
+
 # Research Markdown Papers
 
 *   [Pandoc Scholar](https://pandoc-scholar.github.io/)
