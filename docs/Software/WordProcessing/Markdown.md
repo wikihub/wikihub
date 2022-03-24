@@ -27,6 +27,10 @@ description: News and information about Markdown
 
 * [ReLaXed examples](https://github.com/RelaxedJS/ReLaXed-examples)
 
+# Python
+
+* [WeasyPrint](https://github.com/CourtBouillon/weasyprint-samples)
+
 # Research Markdown Papers
 
 *   [Pandoc Scholar](https://pandoc-scholar.github.io/)
