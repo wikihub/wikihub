@@ -16,6 +16,7 @@ description: News and information about Markdown
 * [Bookdown](https://bookdown.org)
 * [Blogdown](https://bookdown.org/yihui/blogdown/)
 * [Pagedown](https://pagedown.rbind.io/)
+* [pagedreport](https://github.com/rfortherestofus/pagedreport/)
 * [Posterdown](https://brentthorne.github.io/posterdown_html_showcase/)
 * [pkgdown](https://pkgdown.r-lib.org/)
 * [vitae](https://pkg.mitchelloharawild.com/vitae/)
