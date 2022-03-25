@@ -39,6 +39,12 @@ description: News and information about Markdown
 *   [Academic Markdown](https://github.com/smathot/academicmarkdown)
 *   [Bookdown](https://bookdown.org)
 
+# Google Docs
+
+* [booxter/gdoc2mdown](https://github.com/booxter/gdoc2mdown)
+* [dimstefanakis/gdoc2md](https://github.com/dimstefanakis/gdoc2md)
+* [mangini/gdocs2md](https://github.com/mangini/gdocs2md)
+
 # Documentations
 
 *   [Antora](https://antora.org/)
