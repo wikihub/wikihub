@@ -41,6 +41,7 @@ description: News and information about Markdown
 
 # Google Docs
 
+* [GitHub Actions + Google Docs CI](https://github.com/AnandChowdhary/docs-markdown)
 * [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html)
 * [Mr0grog/google-docs-to-markdown](https://github.com/Mr0grog/google-docs-to-markdown)
 * [booxter/gdoc2mdown](https://github.com/booxter/gdoc2mdown)
