@@ -41,6 +41,7 @@ description: News and information about Markdown
 
 # Google Docs
 
+* [Mr0grog/google-docs-to-markdown](https://github.com/Mr0grog/google-docs-to-markdown)
 * [booxter/gdoc2mdown](https://github.com/booxter/gdoc2mdown)
 * [dimstefanakis/gdoc2md](https://github.com/dimstefanakis/gdoc2md)
 * [mangini/gdocs2md](https://github.com/mangini/gdocs2md)
