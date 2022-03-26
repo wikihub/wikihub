@@ -26,3 +26,6 @@ description: News and information about JAMstack
 
 *   [Vercel Examples](https://github.com/vercel/vercel/tree/master/examples)
 
+## Themes
+
+* [JAMstack Themes](https://github.com/stackbit/jamstackthemes)
