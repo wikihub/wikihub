@@ -97,4 +97,4 @@ description: News and information about LaTeX
 
 # Showcases
 
-  - \[<http://www.tug.org/texshowcase/> TeX Show
+  - [TeX Show](http://www.tug.org/texshowcase/) 
