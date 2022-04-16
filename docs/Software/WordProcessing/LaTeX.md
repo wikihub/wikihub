@@ -15,17 +15,14 @@ description: News and information about LaTeX
 
   - [The not so short
     introduction](http://www.ctan.org/tex-archive/info/lshort/english/lshort.pdf)
-  - [LaTeX
-    symbols](http://amath.colorado.edu/documentation/LaTeX/Symbols.pdf)
+  - [LaTeX symbols](http://amath.colorado.edu/documentation/LaTeX/Symbols.pdf)
 
 # Editors
 
   - Emacs
       - [Emacs and TeX](http://www.emacswiki.org/emacs/CategoryTex)
-      - [Emacs for
-        Windows](http://vgoulet.act.ulaval.ca/en/emacs/windows)
-      - [GNU Emacs and
-        SumatraPDF](http://www.barik.net/archive/2012/07/18/154432/)
+      - [Emacs for Windows](http://vgoulet.act.ulaval.ca/en/emacs/windows)
+      - [GNU Emacs and SumatraPDF](http://www.barik.net/archive/2012/07/18/154432/)
   - [LaTeX for Eclipse](http://texlipse.sourceforge.net/)
   - [TeXMaker](http://www.xm1math.net/texmaker/)
   - [BaKoMa](http://www.bakoma-tex.com/)
@@ -48,18 +45,13 @@ description: News and information about LaTeX
   - [TeX Users Group](http://tug.org/)
   - [LaTeX Templates](http://www.latextemplates.com/)
   - [TeXblog](http://texblog.net/)
-  - [LaTeX reference
-    card](http://www.mitchr.me/SS/refc/media/refc_latex.pdf)
-  - [Documentation en ligne sur
-    LaTeX](http://science.thilucmic.fr/spip.php?article5)
-  - [LaTeX, Lyx and
-    knitr](http://faculty.washington.edu/gyollin/docs/Latex.pdf)
+  - [LaTeX reference card](http://www.mitchr.me/SS/refc/media/refc_latex.pdf)
+  - [Documentation en ligne sur LaTeX](http://science.thilucmic.fr/spip.php?article5)
+  - [LaTeX, Lyx and knitr](http://faculty.washington.edu/gyollin/docs/Latex.pdf)
   - How make a LaTeX document look like a Word document:
       - Use XeLaTeX
-      - [Change the
-        fonts](http://tex.stackexchange.com/questions/10138/change-section-fonts)
-      - [Fix PDF
-        figures](http://tex.stackexchange.com/questions/106964/could-not-insert-pdf-graphics)
+      - [Change the fonts](http://tex.stackexchange.com/questions/10138/change-section-fonts)
+      - [Fix PDF figures](http://tex.stackexchange.com/questions/106964/could-not-insert-pdf-graphics)
   - How to include PDF pages in
         LaTeX
       - {\\includepdf\[pages={1-6},height=\\textheight,frame=false,offset=-5
@@ -82,11 +74,8 @@ description: News and information about LaTeX
   - [XePersian](http://xepersian.berlios.de/)
   - [ParsiLaTeX](http://fa.parsilatex.wikia.com/wiki/صفحهٔ_اصلی)
   - [ASTER](http://www.cs.cornell.edu/info/people/raman/aster/demo.html)
-  - [pdfcomment: a user-friendly way to insert comments/ annotations
-    into pdf
-    files](http://texblog.net/latex-archive/latex-general/pdfcomment/)
-  - [Media9 - Multimedia inclusion
-    package](http://www.ctan.org/pkg/media9)
+  - [pdfcomment: a user-friendly way to insert comments/ annotations into pdf files](http://texblog.net/latex-archive/latex-general/pdfcomment/)
+  - [Media9 - Multimedia inclusion package](http://www.ctan.org/pkg/media9)
 
 # Bibliography
 
