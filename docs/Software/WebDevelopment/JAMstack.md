@@ -16,11 +16,13 @@ description: News and information about JAMstack
 
 # [Static websites](https://www.staticgen.com/)
 
-*   [Hugo](https://gohugo.io/)
-    *   [Hugo, getting started](https://gohugo.io/getting-started/quick-start/)
-*   [Jekyll](https://jekyllrb.com/)
-    *   [Jekyll themes](https://jekyllrb.com/docs/themes/)
-*   [Gitbook](https://pages.gitlab.io/gitbook/)
+* [Docusaurus](https://docusaurus.io)
+  * [Docusaurus playground](https://docusaurus.io/docs/playground)
+* [Hugo](https://gohugo.io/)
+  * [Hugo, getting started](https://gohugo.io/getting-started/quick-start/)
+* [Jekyll](https://jekyllrb.com/)
+  * [Jekyll themes](https://jekyllrb.com/docs/themes/)
+* [Gitbook](https://pages.gitlab.io/gitbook/)
 
 ## Examples
 
