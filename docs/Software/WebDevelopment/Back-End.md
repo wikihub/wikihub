@@ -8,6 +8,8 @@ description: News and information about back-end technologies
 
 ---
 
+* [Top 7 Programming Languages for Backend Web Development](https://www.geeksforgeeks.org/top-7-programming-languages-for-backend-web-development/)
+
 # FastAPI
 
 * [FastAPI](https://fastapi.tiangolo.com/)
