@@ -7,6 +7,10 @@ description: News and information about languages
 
 ---
 
+# Localization
+
+* [Crowdin](https://crowdin.com/)
+
 # Persian
 
 ## Python
