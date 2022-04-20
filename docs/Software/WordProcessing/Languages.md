@@ -13,6 +13,10 @@ description: News and information about languages
 
 # Persian
 
+## Jekyll
+
+*   [pr-techblog](https://github.com/pr-techblog/pr-techblog)
+
 ## Python
 
 *   [Hazm](https://github.com/sobhe/hazm)
