@@ -17,6 +17,20 @@ description: Resources for the Python language
 - [Use python -m pip install instead of pip install](https://askubuntu.com/questions/1025793/running-pip3-importerror-cannot-import-name-main)
 - If python.h not found: `sudo apt install python-dev python3-dev python3.7-dev`
 
+# Visualization
+
+* [Altair](https://altair-viz.github.io/)
+
+# Code
+* [PythonRepo](https://pythonrepo.com/)
+
+# [requirements.txt](https://pip.pypa.io/en/stable/cli/pip_install/#requirements-file-format)
+* [Using pip and requirements.txt to install from the HEAD of a Github branch](https://codeinthehole.com/tips/using-pip-and-requirementstxt-to-install-from-the-head-of-a-github-branch/)
+
+# Testing
+
+* [Getting Started With Testing in Python](https://realpython.com/python-testing/)
+
 # Learning Python
 
 * [Python Tutorial](https://www.w3schools.com/python/)
@@ -39,13 +53,3 @@ description: Resources for the Python language
  3. [Data Science Best Resources by Tirthajyoti Sarkar](https://lnkd.in/ghk3yBd)
  4. [Ds-cheatsheets by Favio André Vázquez](https://lnkd.in/gJHjc5X)
  5. [DataScienceResources by jb](https://lnkd.in/gfn6GxN)
-
-# Code
-* [PythonRepo](https://pythonrepo.com/)
-
-# [requirements.txt](https://pip.pypa.io/en/stable/cli/pip_install/#requirements-file-format)
-* [Using pip and requirements.txt to install from the HEAD of a Github branch](https://codeinthehole.com/tips/using-pip-and-requirementstxt-to-install-from-the-head-of-a-github-branch/)
-
-# Testing
-
-* [Getting Started With Testing in Python](https://realpython.com/python-testing/)
