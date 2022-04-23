@@ -42,6 +42,7 @@ description: News and information about DevOps technologies and tools
 * [Jenkins Job Builder](https://docs.openstack.org/infra/jenkins-job-builder/index.html)
 * [Jenkins on Docker](https://github.com/shazChaudhry/docker-jenkins)
 * [Hashicorp Packer, Terraform, and Ansible to Set Up Jenkins](https://tekanaid.com/posts/hashicorp-packer-terraform-and-ansible-to-set-up-jenkins)
+* [Cost Optimize your Jenkins CI/CD pipelines using EC2 Spot Instances](https://aws.amazon.com/blogs/compute/cost-optimize-your-jenkins-ci-cd-pipelines-using-ec2-spot-instances/)
 
 ## [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
