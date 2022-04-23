@@ -42,6 +42,7 @@ description: News and information about DevOps technologies and tools
 * [Jenkins CasC JW18](https://docs.google.com/presentation/d/1VsvDuffinmxOjg0a7irhgJSRWpCzLg_Yskf7Fw7FpBg/edit#slide=id.g3d77b2b0c8_0_360)
 * [Jenkins Pentesting](https://github.com/gquere/pwn_jenkins)
 * [Jenkinsfile runner](https://github.com/jenkinsci/jenkinsfile-runner)
+* [JenkinsAPI](https://github.com/pycontribs/jenkinsapi)
 
 # JenkinsX
 
