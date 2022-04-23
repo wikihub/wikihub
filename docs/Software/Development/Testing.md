@@ -15,3 +15,7 @@ description: News and information about testing and necessary tools
 * [LibreCov](https://librecov.com/)
 * [OpenCov](https://github.com/danhper/opencov)
 * [OpenClover](http://openclover.org/)
+
+# Static Code Analysis
+
+* [MegaLinter](https://megalinter.github.io/latest/)
