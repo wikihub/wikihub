@@ -12,6 +12,8 @@ description: News and information about DevOps technologies and tools
 * [Awesome selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [DevOps exercises](https://github.com/bregman-arie/devops-exercises)
 
+# [KubeSphere](https://kubesphere.io/)
+
 # [Jenkins](https://www.jenkins.io/)
 * [Jenkins on AWS](https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/)
 * [Awesome Jenkins](https://github.com/sahilsk/awesome-jenkins)
