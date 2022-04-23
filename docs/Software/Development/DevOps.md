@@ -41,6 +41,7 @@ description: News and information about DevOps technologies and tools
 * [How to Display Jenkins Build Status Badge on GitHub](https://www.vegait.rs/media-center/blog/how-to-display-jenkins-build-status-badge-on-github)
 * [Jenkins Job Builder](https://docs.openstack.org/infra/jenkins-job-builder/index.html)
 * [Jenkins on Docker](https://github.com/shazChaudhry/docker-jenkins)
+* [Hashicorp Packer, Terraform, and Ansible to Set Up Jenkins](https://tekanaid.com/posts/hashicorp-packer-terraform-and-ansible-to-set-up-jenkins)
 
 ## [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
