@@ -12,15 +12,7 @@ description: News and information about DevOps technologies and tools
 * [Awesome selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [DevOps exercises](https://github.com/bregman-arie/devops-exercises)
 
-# Chef
-* [Chef supermarket](https://supermarket.chef.io/)
-
-# Puppet
-* [puppet-jenkins](https://forge.puppet.com/modules/puppet/jenkins)
-
-# Build pipelines
-
-## [Jenkins](https://www.jenkins.io/)
+# [Jenkins](https://www.jenkins.io/)
 * [Jenkins on AWS](https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/)
 * [Awesome Jenkins](https://github.com/sahilsk/awesome-jenkins)
 * [Ansible role for Jenkins](https://github.com/geerlingguy/ansible-role-jenkins)
@@ -44,19 +36,25 @@ description: News and information about DevOps technologies and tools
 * [Hashicorp Packer, Terraform, and Ansible to Set Up Jenkins](https://tekanaid.com/posts/hashicorp-packer-terraform-and-ansible-to-set-up-jenkins)
 * [Cost Optimize your Jenkins CI/CD pipelines using EC2 Spot Instances](https://aws.amazon.com/blogs/compute/cost-optimize-your-jenkins-ci-cd-pipelines-using-ec2-spot-instances/)
 
-## [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
-
-* [Use AWS CodeBuild with Jenkins](https://docs.aws.amazon.com/codebuild/latest/userguide/jenkins-plugin.html)
-
 # JenkinsX
 
 * [JenkinsX on k3s](https://jenkins-x.io/v3/admin/platforms/k3s/)
 * [Serverless Jenkins with Jenkins X](https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870)
 * [James Rawlings](https://medium.com/@jdrawlings)
 
+# [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
+
+* [Use AWS CodeBuild with Jenkins](https://docs.aws.amazon.com/codebuild/latest/userguide/jenkins-plugin.html)
+
 # Bitbucket
 
 * [Configure your runner in bitbucket-pipelines.yml](https://support.atlassian.com/bitbucket-cloud/docs/configure-your-runner-in-bitbucket-pipelines-yml/)
+
+# Chef
+* [Chef supermarket](https://supermarket.chef.io/)
+
+# Puppet
+* [puppet-jenkins](https://forge.puppet.com/modules/puppet/jenkins)
 
 # ARM
 
