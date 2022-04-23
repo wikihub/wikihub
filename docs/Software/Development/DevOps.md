@@ -12,6 +12,7 @@ description: News and information about DevOps technologies and tools
 * [Awesome selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [DevOps exercises](https://github.com/bregman-arie/devops-exercises)
 * [DevOps resources](https://github.com/bregman-arie/devops-resources)
+* [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
 
 # [KubeSphere](https://kubesphere.io/)
 
