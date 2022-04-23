@@ -40,6 +40,7 @@ description: News and information about DevOps technologies and tools
 * [Hashicorp Packer, Terraform, and Ansible to Set Up Jenkins](https://tekanaid.com/posts/hashicorp-packer-terraform-and-ansible-to-set-up-jenkins)
 * [Cost Optimize your Jenkins CI/CD pipelines using EC2 Spot Instances](https://aws.amazon.com/blogs/compute/cost-optimize-your-jenkins-ci-cd-pipelines-using-ec2-spot-instances/)
 * [Jenkins CasC JW18](https://docs.google.com/presentation/d/1VsvDuffinmxOjg0a7irhgJSRWpCzLg_Yskf7Fw7FpBg/edit#slide=id.g3d77b2b0c8_0_360)
+* [Jenkins Pentesting](https://github.com/gquere/pwn_jenkins)
 
 # JenkinsX
 
