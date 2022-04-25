@@ -16,6 +16,10 @@ description: Resources for NVIDIA applications
 * [How To Install CUDA 10 (together with 9.2) on Ubuntu 18.04 with support for NVIDIA 20XX Turing GPUs](https://www.pugetsystems.com/labs/hpc/How-To-Install-CUDA-10-together-with-9-2-on-Ubuntu-18-04-with-support-for-NVIDIA-20XX-Turing-GPUs-1236/)
 * [CUDA Education](https://cudaeducation.com/)
 
+# WSL
+
+* [Enabling GPU acceleration on Ubuntu on WSL2 with the NVIDIA CUDA Platform](https://ubuntu.com/tutorials/enabling-gpu-acceleration-on-ubuntu-on-wsl2-with-the-nvidia-cuda-platform#1-overview)
+
 # Jetson
 
 * [Jetson Zoo](https://elinux.org/Jetson_Zoo)
