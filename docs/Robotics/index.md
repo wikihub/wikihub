@@ -25,6 +25,7 @@ description: Resources for robotics
 
 # Shopping
 
+* [Gibson Engineering](https://shop.gibsonengineering.com/products?search=%23mobile-robots)
 * [Superdroid Robots](https://www.superdroidrobots.com/)
 * [Robotshop](https://www.robotshop.com/ca/en/)
 * [Solarbotics](https://solarbotics.com/)
