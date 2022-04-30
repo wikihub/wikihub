@@ -17,9 +17,7 @@ description: News and information about web development technologies
 * [Scrimba](https://scrimba.com/)
 * [freeCodeCamp](https://www.youtube.com/c/Freecodecamp/videos)
 
-<blockquote class="twitter-tweet">
- <p lang="en" dir="ltr">Twitter is the best place to learn web development.<br><br>Here are my 18 threads covering a wide range of topics in CSS, JavaScript, and React:</p>&mdash; Pratham (@Prathkum) <a href="https://twitter.com/Prathkum/status/1520300437467013120?ref_src=twsrc%5Etfw">April 30, 2022</a>
-</blockquote>
+> Twitter is the best place to learn web development.<br><br>Here are my 18 threads covering a wide range of topics in CSS, JavaScript, and React:</p>&mdash; Pratham (@Prathkum) <a href="https://twitter.com/Prathkum/status/1520300437467013120?ref_src=twsrc%5Etfw">April 30, 2022</a>
 
 ## Netlify
 * [Netlify Tutorial - How to build and deploy websites using Netlify](https://www.youtube.com/watch?v=mT5siI19gtc)
