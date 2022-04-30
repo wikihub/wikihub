@@ -6,10 +6,6 @@ weight: 70
 description: News and information about web development technologies
 ---
 
-<head>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-</head>
-
 # Learning resources
 * [web.dev](https://web.dev/)
 * [Egghead](https://egghead.io/)
