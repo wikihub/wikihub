@@ -6,22 +6,6 @@ weight: 20
 
 * [Docker networks](https://geek-cookbook.funkypenguin.co.nz/reference/networks/)
 
-# [Mistborn](https://gitlab.com/cyber5k/mistborn)
-
-# Zerotier
-
-* [Awesome Zerotier](https://github.com/zerotier/awesome-zerotier)
-* [ztncui](https://key-networks.com/ztncui/)
-* [Running MPLS over ZeroTier Part 1](https://gotz.co/2019/02/17/mpls-over-zerotier-pt-1/)
-
-# Innernet
-
-* [Overlay networking](https://github.com/shitcorp/Overlay-Networking)
-
-# Nebula
-
-* [Nebula](https://github.com/slackhq/nebula)
-
 # Ubuntu
 
 * To see ports in use:
