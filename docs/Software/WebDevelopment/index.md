@@ -6,6 +6,10 @@ weight: 70
 description: News and information about web development technologies
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Twitter is the best place to learn web development.<br><br>Here are my 18 threads covering a wide range of topics in CSS, JavaScript, and React:</p>&mdash; Pratham (@Prathkum) <a href="https://twitter.com/Prathkum/status/1520300437467013120?ref_src=twsrc%5Etfw">April 30, 2022</a></blockquote> 
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Learning resources
 * [web.dev](https://web.dev/)
 * [Egghead](https://egghead.io/)
