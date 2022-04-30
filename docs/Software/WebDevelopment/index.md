@@ -18,7 +18,7 @@ description: News and information about web development technologies
 * [freeCodeCamp](https://www.youtube.com/c/Freecodecamp/videos)
 
 > Twitter is the best place to learn web development. 
-> Here are my 18 threads covering a wide range of topics in CSS, JavaScript, and React:</p>&mdash; Pratham (@Prathkum) <a href="https://twitter.com/Prathkum/status/1520300437467013120?ref_src=twsrc%5Etfw">April 30, 2022</a>
+> Here are my 18 threads covering a wide range of topics in CSS, JavaScript, and React:&mdash; Pratham (@Prathkum) <a href="https://twitter.com/Prathkum/status/1520300437467013120?ref_src=twsrc%5Etfw">April 30, 2022</a>
 
 ## Netlify
 * [Netlify Tutorial - How to build and deploy websites using Netlify](https://www.youtube.com/watch?v=mT5siI19gtc)
