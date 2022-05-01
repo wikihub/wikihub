@@ -43,6 +43,7 @@ description: News and information about self-hosted applications
 * [selfhosted](https://github.com/mattiss/selfhosted/tree/master/docker)
 * [Self hosted services](https://github.com/sethforprivacy/self-hosted-services)
 * [PAPAMICA](https://github.com/PAPAMICA)
+* [home-infra](https://github.com/casenjo/home-infra)
 
 ## Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
