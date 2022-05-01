@@ -44,6 +44,7 @@ description: News and information about self-hosted applications
 * [Self hosted services](https://github.com/sethforprivacy/self-hosted-services)
 * [PAPAMICA](https://github.com/PAPAMICA)
 * [home-infra](https://github.com/casenjo/home-infra)
+* [IoTstack](https://sensorsiot.github.io/IOTstack/Containers/WireGuard/)
 
 ## Self-Hosted Web Applications
 - [Awesome selfhosted](https://github.com/Kickball/awesome-selfhosted)
