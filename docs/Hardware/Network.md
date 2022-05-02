@@ -47,8 +47,7 @@ description: Network and Internet resources
 * Firezone
   * [Firezone](https://www.firez.one/)
 * [wg-access-server](https://www.freie-netze.org/wg-access-server/deployment/2-docker-compose/)
-* [headscale](https://github.com/juanfont/headscale)
-* [subspace](https://github.com/subspacecloud/subspace)
+* [Set Up Your Own WireGuard VPN Server on Ubuntu 20.04/18.04](https://www.linuxbabe.com/ubuntu/wireguard-vpn-server-ubuntu)
 
 # [Mistborn](https://gitlab.com/cyber5k/mistborn)
 
@@ -61,8 +60,10 @@ description: Network and Internet resources
 * [Nebula](https://github.com/slackhq/nebula)
 
 # [subspace](https://github.com/subspacecloud/subspace)
+* [subspace](https://github.com/subspacecloud/subspace)
 
 # [headscale](https://github.com/juanfont/headscale)
+* [headscale](https://github.com/juanfont/headscale)
 
 # Zerotier
 
