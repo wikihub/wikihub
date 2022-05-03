@@ -37,6 +37,7 @@ description: Linux resources
 # Services:
 
 * List services: `service  --status-all`
+* List all services: `systemctl list-units --type=service`
 
 # Package Managers
 
