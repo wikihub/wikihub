@@ -7,9 +7,10 @@ description: Resources for short term rentals
 
 * [AirDNA](https://www.airdna.co)
 
-# Companies
+# Digital Nomads
 
 * [Anyplace](https://www.anyplace.com/)
+* [How to Find Accommodation for Digital Nomads (16 Great Options)](https://nomadfinanceandfreedom.com/accommodation-for-digital-nomads-remote-workers/)
 
 # News
 
