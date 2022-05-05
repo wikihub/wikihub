@@ -10,7 +10,9 @@ description: Resources for short term rentals
 # Digital Nomads
 
 * [Anyplace](https://www.anyplace.com/)
+* [flOasis](https://floasis.io/)
 * [How to Find Accommodation for Digital Nomads (16 Great Options)](https://nomadfinanceandfreedom.com/accommodation-for-digital-nomads-remote-workers/)
+* [A Digital Nomad Guide to Toronto](https://digitalnomads.world/city-guide/toronto/)
 
 # News
 
