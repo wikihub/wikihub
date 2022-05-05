@@ -7,6 +7,10 @@ description: Resources for short term rentals
 
 * [AirDNA](https://www.airdna.co)
 
+# Companies
+
+* [Anyplace](https://www.anyplace.com/)
+
 # News
 
 * [Airbnb Hosts Bash Refund Policy They Say Opens Door to Scams](https://www.bnnbloomberg.ca/airbnb-hosts-bash-refund-policy-they-say-opens-door-to-scams-1.1750015)
