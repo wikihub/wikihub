@@ -7,6 +7,10 @@ description: Resources for short term rentals
 
 * [AirDNA](https://www.airdna.co)
 
+# News
+
+* [Airbnb Hosts Bash Refund Policy They Say Opens Door to Scams](https://www.bnnbloomberg.ca/airbnb-hosts-bash-refund-policy-they-say-opens-door-to-scams-1.1750015)
+
 # Ontario
 
 * [Growing regulation of Airbnb makes hosts legally vulnerable like never before, say experts](https://www.cbc.ca/news/canada/london/airbnb-ontario-hosting-lawyer-1.6431779)
