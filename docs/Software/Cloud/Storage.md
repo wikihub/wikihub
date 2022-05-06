@@ -33,3 +33,4 @@ description: News and information about cloud storage
 * [Data version control tools](https://dagshub.com/blog/data-version-control-tools/)
 * [DVC](https://dvc.org/)
 * [lakeFS](https://lakefs.io/)
+* [Galaxy Project](https://galaxyproject.org/)
