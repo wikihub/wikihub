@@ -16,6 +16,7 @@ description: Hardware resources
 * [Pico Canada](https://picocanada.com/en/)
 * [tindie](https://www.tindie.com/)
 * [Rev Robotics](http://www.revrobotics.com/)
+* [Drop](https://drop.com/)
 
 ## Canada
 
