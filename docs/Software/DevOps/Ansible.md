@@ -14,3 +14,7 @@ description: News and information about Ansible
 # Roles
 
 * [Ansible role for Jenkins](https://github.com/geerlingguy/ansible-role-jenkins)
+
+# Tests
+
+* [Molecule](https://molecule.readthedocs.io/en/latest/)
