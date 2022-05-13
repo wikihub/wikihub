@@ -49,6 +49,7 @@ description: Network and Internet resources
 * [wg-access-server](https://www.freie-netze.org/wg-access-server/deployment/2-docker-compose/)
 * [Set Up Your Own WireGuard VPN Server on Ubuntu 20.04/18.04](https://www.linuxbabe.com/ubuntu/wireguard-vpn-server-ubuntu)
 * [WireHole](https://github.com/IAmStoxe/wirehole)
+* [WireGuard Guide](https://github.com/mikeroyal/WireGuard-Guide)
 
 # [Mistborn](https://gitlab.com/cyber5k/mistborn)
 
