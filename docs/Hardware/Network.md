@@ -48,6 +48,7 @@ description: Network and Internet resources
   * [Firezone](https://www.firez.one/)
 * [wg-access-server](https://www.freie-netze.org/wg-access-server/deployment/2-docker-compose/)
 * [Set Up Your Own WireGuard VPN Server on Ubuntu 20.04/18.04](https://www.linuxbabe.com/ubuntu/wireguard-vpn-server-ubuntu)
+* [WireHole](https://github.com/IAmStoxe/wirehole)
 
 # [Mistborn](https://gitlab.com/cyber5k/mistborn)
 
