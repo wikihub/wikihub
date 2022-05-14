@@ -16,6 +16,10 @@ description: News and information about Terraform, Nomad, Vault, Consul
 
 * [Installing Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/certification-associate-tutorials)
 * [Open Guides](https://github.com/open-guides/og-aws)
+* [hcloud terraform](https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs)
+* [hcloud-csi-driver](https://registry.terraform.io/modules/colinwilson/hcloud-csi-driver/kubernetes/latest)
+* [Silkky Cloud terraform hcloud](https://github.com/silkkycloud/terraform-cluster)
+* [terraform-kubernetes-hcloud-csi-driver](https://github.com/colinwilson/terraform-kubernetes-hcloud-csi-driver)
 
 ## Terraform for Hetzner
 * [Hetzner cloud provider](https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs)

@@ -117,13 +117,6 @@ description: News and information about cloud computing services
   * boot into "Recovery Mode"
   * open "root shell" :P
 
-### Terraform
-
-* [hcloud terraform](https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs)
-* [hcloud-csi-driver](https://registry.terraform.io/modules/colinwilson/hcloud-csi-driver/kubernetes/latest)
-* [Silkky Cloud terraform hcloud](https://github.com/silkkycloud/terraform-cluster)
-* [terraform-kubernetes-hcloud-csi-driver](https://github.com/colinwilson/terraform-kubernetes-hcloud-csi-driver)
-
 ### Kubernetes
 - [hetzner-kube](https://github.com/xetys/hetzner-kube)
 - [Hcloud cloud controller manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager)
