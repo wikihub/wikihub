@@ -15,6 +15,8 @@ description: News and information about Ansible
 # Roles
 
 * [Ansible role for Jenkins](https://github.com/geerlingguy/ansible-role-jenkins)
+* [lean_delivery Ansible roles](https://galaxy.ansible.com/lean_delivery)
+* [lean_delivery on GitHub](https://github.com/lean-delivery)
 
 # Tests
 
