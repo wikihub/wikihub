@@ -36,9 +36,9 @@ description: News and information about Jenkins
 * [Jenkinsfile runner](https://github.com/jenkinsci/jenkinsfile-runner)
 * [JenkinsAPI](https://github.com/pycontribs/jenkinsapi)
 
-# JenkinsX
+# Jenkins X
 
-* [JenkinsX on k3s](https://jenkins-x.io/v3/admin/platforms/k3s/)
+* [Jenkins X on k3s](https://jenkins-x.io/v3/admin/platforms/k3s/)
 * [Serverless Jenkins with Jenkins X](https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870)
 * [James Rawlings](https://medium.com/@jdrawlings)
 
