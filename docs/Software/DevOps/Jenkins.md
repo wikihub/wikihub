@@ -41,6 +41,8 @@ description: News and information about Jenkins
 * [Jenkins X on k3s](https://jenkins-x.io/v3/admin/platforms/k3s/)
 * [Serverless Jenkins with Jenkins X](https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870)
 * [James Rawlings](https://medium.com/@jdrawlings)
+* [jx3-terraform-eks](https://github.com/jx3-gitops-repositories/jx3-terraform-eks)
+* [jx3-eks-asm](https://github.com/jx3-gitops-repositories/jx3-eks-asm)
 
 # [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
