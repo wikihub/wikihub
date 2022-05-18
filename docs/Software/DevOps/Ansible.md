@@ -18,6 +18,7 @@ description: News and information about Ansible
 * [lean_delivery Ansible roles](https://galaxy.ansible.com/lean_delivery)
 * [lean_delivery on GitHub](https://github.com/lean-delivery)
 * [Ansible roles by Robert Debock](https://robertdebock.nl/)
+* [riemers/ansible-gitlab-runner](https://github.com/riemers/ansible-gitlab-runner)
 
 # Tests
 
