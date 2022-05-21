@@ -32,3 +32,7 @@ description: Resources for startups
 ## China
 
 * [China Canada Angels Alliance](http://www.cc-angels.com/wp/)
+
+# [Startup Visa Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa.html)
+
+* [List of designated organizations](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/designated-organizations.html)
