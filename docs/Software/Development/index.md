@@ -12,6 +12,7 @@ description: News and information about software development and necessary tools
 
 * [Open source guide](https://opensource.guide/)
 * [Open source agenda](https://www.opensourceagenda.com/)
+* [Open Collective](https://opencollective.com/)
 
 # Coding interviews
 
