@@ -17,7 +17,7 @@ description: Programming resources
 *   [Stack Overflow](https://stackoverflow.com/)
 *   [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 *   [Programiz](https://www.programiz.com/)
-
+*   [Codecademy](https://www.codecademy.com/)
 
 # Libraries
 
