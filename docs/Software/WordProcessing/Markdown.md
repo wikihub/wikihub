@@ -39,6 +39,13 @@ description: News and information about Markdown
 *   [Academic Markdown](https://github.com/smathot/academicmarkdown)
 *   [Bookdown](https://bookdown.org)
 
+# Note taking
+
+* [Obsidian](https://obsidian.md/)
+* [Roam Research](https://roamresearch.com/)
+* [RemNote](https://www.remnote.com/)
+* [Relanote](https://relanote.com/)
+
 # Google Docs
 
 * [docs-markdown: CLI + GitHub Actions + Google Docs CI](https://github.com/AnandChowdhary/docs-markdown)
