@@ -43,6 +43,8 @@ description: Linux resources
 
 * [Cobbler](https://cobbler.github.io/)
 * [MAAS](https://maas.io/)
+* [TinyPilot](https://github.com/tiny-pilot/tinypilot)
+
 
 # Package Managers
 
