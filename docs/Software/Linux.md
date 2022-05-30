@@ -48,6 +48,8 @@ description: Linux resources
 
 # Package Managers
 
+* [installati.one](https://installati.one/)
+
 ## APT
 *   Search apt packages: apt-cache search keyword
 
