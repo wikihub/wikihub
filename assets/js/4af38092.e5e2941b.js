@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7061],{4068:function(e){e.exports=JSON.parse('{"allTagsPath":"/wikihub/blog/tags","slug":"/wikihub/blog/tags/hello","name":"hello","count":1,"permalink":"/wikihub/blog/tags/hello"}')}}]);
